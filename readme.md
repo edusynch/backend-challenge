@@ -1,8 +1,8 @@
 # EduSynch Backend Challenge
 
-Fork this repository
-Create a new rails project
-Submit a pull request
+- Fork this repository
+- Create a new rails project
+- Submit a pull request
 
 ## Todo API endpoints
 
